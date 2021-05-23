@@ -75,7 +75,7 @@ class _SettingScreenState extends State<SettingScreen> {
                 ),
                 SizedBox(width: 10),
                 Text(
-                  'Account',
+                  'Notifications',
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
